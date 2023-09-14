@@ -1,6 +1,6 @@
 # Book-A-Mark Website
 
-![Book-A-Mark Logo](/images/book_img.jpeg)
+![Book-A-Mark Logo](/images/book_img.webp)
 
 Thank you for visiting the Book-A-Mark website! For students wishing to access a variety of books, including hot new releases, classic works, and all-time classics, this website serves as a one-stop shop. In addition, we offer podcasts, the most recent tech news, and a way to get more books. Feel free to look around and learn everything you can!
 
