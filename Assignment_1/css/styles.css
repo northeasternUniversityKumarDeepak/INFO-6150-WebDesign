@@ -1,0 +1,91 @@
+/* Reset some default styles for better consistency */
+body, h1, h2, p, ul, li, table {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #D2E9E9;
+}
+
+header {
+    background-color: #053B50;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+img {
+  padding:4px;
+  width:150px
+}
+
+section {
+    padding: 40px;
+    text-align: left;
+}
+#video {
+    background-color: #A1CCD1;
+    text-align: center;
+}
+#about {
+    background-color: #A1CCD1;
+    text-align: center;
+}
+
+#contact {
+    background-color: #1D5B79;
+    text-align: center;
+}
+#request_for_books {
+    background-color: #A1CCD1;
+    text-align: center;
+}
+#request_for_more_books {
+    text-align: center;
+}
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 10px;
+}
+
+address {
+    font-style: normal;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #0A4D68;
+    color: #64CCC5;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Add more CSS for styling as needed */
