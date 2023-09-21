@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <!-- Favicon Link -->
+    <link rel="icon" href="/images/favicon.ico">
+    <!-- CSS styling -->
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <!--  -->
+    <header id = "header_form">
+      <a href="#" class="logo"><img src="/images/favicon.ico" alt="" width="5" height="5"></a>
+      <div>
+        <section>
+            <div>
+                <h1>Hello, I am <span> Deepak Kumar</span></h1>
+                <p>Software Engineer</p>
+                <div>
+                    <a href="https://www.linkedin.com/in/deepak-kumar-azure-data-engineer/"><img class="form_img"
+                            src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""></a>
+                    <a href="https://github.com/northeasternUniversityKumarDeepak"><img class="form_img"
+                            src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt=""></a>
+                </div>
+            </div>
+        </section>
+    </div>
+    </header>
+
+    <section id="Send_your_queries">
+        <h2>Send me your queries</h2>
+        <!-- Contact Form -->
+        <form action="submit_form.php" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <br>
+            <label for="message">Message:</label>
+            <textarea name="message" rows="8" cols="80"></textarea>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+    <section id="resp_sec">
+    </section>
+  </body>
+</html>
