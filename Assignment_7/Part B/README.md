@@ -36,8 +36,4 @@ The JavaScript code in `script.js` demonstrates the following features:
 - Functions for starting, stopping, and resetting the stopwatch.
 - Setting the initial date in the date picker and making it non-editable.
 
-**Note:** The original code had a variable `datePicker` that was declared after its usage. It's moved to the correct position in the JavaScript code.
-
-Additionally, the code now prevents users from manually typing or editing the date in the input field. Users can still select dates from the drop-down calendar while preventing direct keyboard input.
-
 This web application allows users to interact with a stopwatch and select dates using the date picker while showcasing a range of web development features and practices.
